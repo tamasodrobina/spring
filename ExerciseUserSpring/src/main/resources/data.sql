@@ -1,0 +1,1 @@
+insert into user (name, date) values( 'Géza', '2019-01-01')
